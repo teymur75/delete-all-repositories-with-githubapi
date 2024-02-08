@@ -1,0 +1,14 @@
+C:\Users\teymur.rahimli\Desktop\DeleteRepositories\bin\Debug\net8.0\DeleteRepositories.exe
+C:\Users\teymur.rahimli\Desktop\DeleteRepositories\bin\Debug\net8.0\DeleteRepositories.deps.json
+C:\Users\teymur.rahimli\Desktop\DeleteRepositories\bin\Debug\net8.0\DeleteRepositories.runtimeconfig.json
+C:\Users\teymur.rahimli\Desktop\DeleteRepositories\bin\Debug\net8.0\DeleteRepositories.dll
+C:\Users\teymur.rahimli\Desktop\DeleteRepositories\bin\Debug\net8.0\DeleteRepositories.pdb
+C:\Users\teymur.rahimli\Desktop\DeleteRepositories\obj\Debug\net8.0\DeleteRepositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teymur.rahimli\Desktop\DeleteRepositories\obj\Debug\net8.0\DeleteRepositories.AssemblyInfoInputs.cache
+C:\Users\teymur.rahimli\Desktop\DeleteRepositories\obj\Debug\net8.0\DeleteRepositories.AssemblyInfo.cs
+C:\Users\teymur.rahimli\Desktop\DeleteRepositories\obj\Debug\net8.0\DeleteRepositories.csproj.CoreCompileInputs.cache
+C:\Users\teymur.rahimli\Desktop\DeleteRepositories\obj\Debug\net8.0\DeleteRepositories.dll
+C:\Users\teymur.rahimli\Desktop\DeleteRepositories\obj\Debug\net8.0\refint\DeleteRepositories.dll
+C:\Users\teymur.rahimli\Desktop\DeleteRepositories\obj\Debug\net8.0\DeleteRepositories.pdb
+C:\Users\teymur.rahimli\Desktop\DeleteRepositories\obj\Debug\net8.0\DeleteRepositories.genruntimeconfig.cache
+C:\Users\teymur.rahimli\Desktop\DeleteRepositories\obj\Debug\net8.0\ref\DeleteRepositories.dll
